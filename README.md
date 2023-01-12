@@ -41,18 +41,18 @@ After you're finished please remove all the comments and instructions!
 
 - [📖 Portfolio Project](#About the Project)
   - [🛠 Built With VS Code Figma and Git Hub ](#built-with)
-    - [Tech Stack](#tech-stack)
-    - [Key Features](#key-features)
-  - [🚀 Live Demo](#live-demo)
+    - [Tech Stack vs code Figma and Git HUB](#tech-stack)
+    - [Key Features Portfolio Page](#key-features)
+  - [🚀 Live Demo available on Git Hub](#live-demo)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
-  - [Prerequisites](#prerequisites)
+  - [Prerequisites - VS Code and Git HUB](#prerequisites)
   - [Install](#install)
-  - [Usage](#usage)
+  - [Usage Portfolio Page for Work Demostration](#usage)
   - [Run tests](#run-tests)
   - [Deployment](#triangular_flag_on_post-deployment)
 - [👥 Baqar Abbas](#authors)
-- [🔭 Future Features](#future-features)
+- [🔭 Future Features will be updated and enhanced](#future-features)
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
@@ -69,7 +69,7 @@ After you're finished please remove all the comments and instructions!
 
 ## 🛠 Built With Visual studio Code & Figma in collaboration with Git Hub <a name="built-with"></a>
 
-### Tech Stack <a name="tech-stack"></a>
+### Tech Stack VS CODE Figma and Git Hub<a name="tech-stack"></a>
 
 > Describe the tech stack and include only the relevant sections that apply to your project.
   Built on Visual studio Code  & Figma  in Collaboration with Git Hub 
@@ -96,7 +96,7 @@ After you're finished please remove all the comments and instructions!
 
 <!-- Features -->
 
-### Key Features <a name="key-features"></a>
+### Key Features demostration of Portfolio <a name="key-features"></a>
 
 > 
 
@@ -107,7 +107,7 @@ After you're finished please remove all the comments and instructions!
 
 <!-- LIVE DEMO -->
 
-## 🚀 Live Demo <a name="live-demo"></a>
+## 🚀 Live Demo available on Git HUB <a name="live-demo"></a>
 
 
 
@@ -171,7 +171,7 @@ Example:
 ## 👥 Authors <a name="authors"></a>
 
 > Mention all of the collaborators of this project.
-Solo Project Baqar Abbas
+Solo Project Baqar Abbas Portfolio Page
 
 
 
@@ -179,7 +179,7 @@ Solo Project Baqar Abbas
 
 <!-- FUTURE FEATURES -->
 
-## 🔭 Future Features <a name="future-features"></a>
+## 🔭 Future Features will be added and enhancements will be updated<a name="future-features"></a>
 
 > New features will be added to the project in Future.
 
