@@ -5,10 +5,39 @@ body {
 }
 .header {
   background-image: url('headerpic.png');
-  border-bottom-left-radius: 20px;
+  border-bottom-left-radius: 50px;
   padding: 45px;
   
+  
 }
-h1 {
-  color: black;
+.nav ul {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+  overflow: hidden;
+}
+.nav .left {
+  float: left;
+  color: blue;
+}
+.nav .right {
+  float: right;
+}
+
+.nav li a {
+  display: inline-block;
+  padding: 12px 14px;
+  text-decoration: none;
+  color: #000;
+}
+.nav li .blue {
+  color: blue;
+  font-weight: bold;
+}
+.nav li .brown {
+  color: purple
+}
+.header h1 {
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+  color: #091E42;
 }
