@@ -182,6 +182,8 @@ Solo Project - Baqar Abbas - Portfolio Page
 ## 🔭 Future Features will be added and enhancements will be updated<a name="future-features"></a>
 
 > New features will be added to the project in Future.
+Portfolio project will be updated to handle responsiveness so that it will look good on all major breakpoints
+of resolution for handling Desktop, Tablets and mobile resolution. It will be handled using media queries.
 
 - [ ] **[Portfolio Project]**
 
