@@ -41,8 +41,8 @@ After you're finished please remove all the comments and instructions!
 
 - [📖 Portfolio Project](#About the Project)
   - [🛠 Built With VS Code Figma and Git Hub ](#built-with)
-    - [Tech Stack vs code Figma and Git HUB](#tech-stack)
-    - [Key Features Portfolio Page](#key-features)
+    - [Tech Stack HTML and CSS](#tech-stack)
+    - [Key Features Portfolio Page _ Demostration of portfolio Projects](#key-features)
   - [🚀 Live Demo available on Git Hub](#live-demo)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
@@ -67,30 +67,30 @@ After you're finished please remove all the comments and instructions!
 
 **[Portfolio Project ]** is my first Microverse Portfolio Project...
 
-## 🛠 Built With Visual studio Code & Figma in collaboration with Git Hub <a name="built-with"></a>
+## 🛠 Built With HTMl & CSS on Visual studio Code & Figma in collaboration with Git Hub <a name="built-with"></a>
 
-### Tech Stack VS CODE Figma and Git Hub<a name="tech-stack"></a>
+### Tech Stack HTML and CSS using VS CODE Figma and Git Hub<a name="tech-stack"></a>
 
 > Describe the tech stack and include only the relevant sections that apply to your project.
-  Built on Visual studio Code  & Figma  in Collaboration with Git Hub 
+  Built on HTML & CSS using Visual studio Code  & Figma  in Collaboration with Git Hub 
 <details>
   <summary>Client</summary>
   <ul>
-    <li><a href="https://reactjs.org/">React.js</a></li>
+    <li><a href="https://www.google.com/">HTML</a></li>
   </ul>
 </details>
 
 <details>
   <summary>Server</summary>
   <ul>
-    <li><a href="https://expressjs.com/">Express.js</a></li>
+    <li><a href="https://www.google.com/">CSS</a></li>
   </ul>
 </details>
 
 <details>
 <summary>Database</summary>
   <ul>
-    <li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
+    <li><a href="https://www.google.com"">GITHUB</a></li>
   </ul>
 </details>
 
@@ -171,7 +171,7 @@ Example:
 ## 👥 Authors <a name="authors"></a>
 
 > Mention all of the collaborators of this project.
-Solo Project Baqar Abbas Portfolio Page
+Solo Project - Baqar Abbas - Portfolio Page
 
 
 
