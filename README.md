@@ -40,7 +40,7 @@ After you're finished please remove all the comments and instructions!
 # 📗 Table of Contents
 
 - [📖 Portfolio Project](#About the Project)
-  - [🛠 Built With VS Code Figma and Git Hub ](#built-with)
+  - [🛠 Built With HTML and CSS using VS Code Figma and Git Hub ](#built-with)
     - [Tech Stack HTML and CSS](#tech-stack)
     - [Key Features Portfolio Page _ Demostration of portfolio Projects](#key-features)
   - [🚀 Live Demo available on Git Hub](#live-demo)
@@ -51,7 +51,7 @@ After you're finished please remove all the comments and instructions!
   - [Usage Portfolio Page for Work Demostration](#usage)
   - [Run tests](#run-tests)
   - [Deployment](#triangular_flag_on_post-deployment)
-- [👥 Baqar Abbas](#authors)
+- [👥 Author: Baqar Abbas](#authors)
 - [🔭 Future Features will be updated and enhanced](#future-features)
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
@@ -77,20 +77,22 @@ After you're finished please remove all the comments and instructions!
   <summary>Client</summary>
   <ul>
     <li><a href="https://www.google.com/">HTML</a></li>
+    <li><a href="https://www.google.com/">CSS</a></li>
+    <li><a href="https://www.google.com"">GITHUB</a></li>
   </ul>
 </details>
 
 <details>
   <summary>Server</summary>
   <ul>
-    <li><a href="https://www.google.com/">CSS</a></li>
+    
   </ul>
 </details>
 
 <details>
 <summary>Database</summary>
   <ul>
-    <li><a href="https://www.google.com"">GITHUB</a></li>
+    
   </ul>
 </details>
 
