@@ -12,15 +12,18 @@ header {
   border-bottom-left-radius: 50px;
   padding: 45px;
 }
+
 nav ul {
   list-style-type: none;
   padding: 0;
   margin: 0;
   overflow: hidden;
 }
+
 nav li {
   float: left;
 }
+
 nav li a {
   text-decoration: none;
   color: blue;
@@ -28,6 +31,7 @@ nav li a {
   padding: 14px 16px;
   text-align: center;
 }
+
 nav li a.logolink {
   position: relative;
   top: 20px;
@@ -39,10 +43,13 @@ nav li.dropdown {
   top: 0;
   right: 0;
 }
-.textdiv h1,p {
+
+.textdiv h1,
+p {
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   color: #091e42;
 }
+
 .container {
   display: flex;
   border: 1px solid gray;
@@ -255,13 +262,11 @@ input[type=button] {
   .nav a {
     width: 100%;
   }
-  
 
   .container .imgdiv,
   .container .tonic {
     flex-direction: column;
-    
-  } 
+  }
 
   .container2 .multi,
   .container2 .imgdiv2 {
@@ -281,5 +286,5 @@ input[type=button] {
   .container5 .about,
   .container5 .language {
     width: 100%;
-  } 
+  }
 }
