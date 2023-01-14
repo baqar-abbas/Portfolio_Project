@@ -17,6 +17,7 @@ nav ul {
   list-style-type: none;
   padding: 0;
   margin: 0;
+  background-color: white;
   overflow: hidden;
 }
 
@@ -28,28 +29,92 @@ nav li a {
   text-decoration: none;
   color: blue;
   display: inline-block;
-  padding: 14px 16px;
+  
   text-align: center;
 }
 
 nav li a.logolink {
   position: relative;
-  top: 20px;
+  top: 19px;
+  left: 8px;
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 20px;
+  color: #6070FF;
 }
 
-nav li.dropdown {
+.textdiv h1 {
+  font-family: 'Poppins';
+  color: #172B4D;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 52px;
+}
+.textdiv p {
+  font-family: 'Poppins';
+  color: #344563;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+}
+/* Texts headings and Paragraphs Font Poppins Fonts Styling*/
+.popheading {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 32px;
+  line-height: 44px;
+  color: #172B4D;
+}
+.popp13 {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 13px;
+  line-height: 16px;
+  color: #344563;
+}
+.popp15 {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 24px;
+  color: #344563;
+}
+.abouth {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 52px;
+  color: #172B4D;
+}
+.aboutp {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 24px;
+  color: #000000;
+}
+.abouts {
+  text-decoration: none;
+  color: #396DF2;
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 17px;
+  line-height: 24px;
+  border: 2px solid lightgray;
+  border-radius: 5px;
   display: inline-block;
-  position: relative;
-  top: 0;
-  right: 0;
+  padding: 18px;
 }
-
-.textdiv h1,
-p {
-  font-family: Verdana, Geneva, Tahoma, sans-serif;
-  color: #091e42;
-}
-
 .container {
   display: flex;
   border: 1px solid gray;
@@ -58,7 +123,7 @@ p {
   margin-left: auto;
   margin-right: auto;
   width: 80%;
-  height: 400px;
+  height: 600px;
   background-color: white;
 }
 
@@ -82,6 +147,12 @@ img {
   background-color: #ddd;
   display: inline-block;
   padding: 6px;
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 12px;
+  line-height: 16px;
+  color: #6070FF;
 }
 
 .btn,
@@ -99,7 +170,12 @@ img {
 .btn2 a,
 .btn4 a {
   text-decoration: none;
-  color: blue;
+  color: #396DF2;
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 17px;
+  line-height: 24px;
 }
 
 .btn a:hover,
@@ -117,7 +193,7 @@ img {
   margin-left: auto;
   margin-right: auto;
   width: 80%;
-  height: 400px;
+  height: 600px;
   background-color: white;
 }
 
@@ -139,6 +215,12 @@ img {
   background-color: #ddd;
   display: inline-block;
   padding: 6px;
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 12px;
+  line-height: 16px;
+  color: #6070FF;
 }
 
 .container3 {
@@ -149,7 +231,7 @@ img {
   margin-left: auto;
   margin-right: auto;
   width: 80%;
-  height: 400px;
+  height: 600px;
   background-color: white;
 }
 
@@ -173,6 +255,12 @@ img {
   background-color: #ddd;
   display: inline-block;
   padding: 6px;
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 12px;
+  line-height: 16px;
+  color: #6070FF;
 }
 
 .container4 {
@@ -183,7 +271,7 @@ img {
   margin-left: auto;
   margin-right: auto;
   width: 80%;
-  height: 400px;
+  height: 600px;
   background-color: white;
 }
 
@@ -205,6 +293,12 @@ img {
   background-color: #ddd;
   display: inline-block;
   padding: 6px;
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 12px;
+  line-height: 16px;
+  color: #6070FF;
 }
 
 .container5 {
@@ -237,25 +331,50 @@ img {
   align-items: center;
 }
 
-.form h2,
+.form h1 {
+  color: #FFFFFF;
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 52px;
+}
 .form p {
-  color: white;
+  color: #EBEBFF;
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 28px;
 }
 
 input[type=text] {
   width: 350px;
   height: 45px;
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 17px;
+  line-height: 20px;
+  color: #172B4D;
 }
 
 textarea {
   width: 350px;
   height: 150px;
+  font-size: 17px;
   resize: none;
 }
 
 input[type=button] {
   width: 350px;
   height: 45px;
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 17px;
+  line-height: 24px;
+  color: #6070FF;
 }
 
 @media (max-width: 750px) {
