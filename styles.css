@@ -385,7 +385,7 @@ input[type=button] {
   color: #6070ff;
 }
 
-@media (max-width: 750px) {
+@media (max-width: 500px) {
   .nav a {
     width: 100%;
   }
