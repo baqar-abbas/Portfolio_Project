@@ -46,7 +46,7 @@ After you're finished please remove all the comments and instructions!
   - [🚀 Live Demo available on Git Hub](#live-demo)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
-  - [Prerequisites - VS Code and Git HUB](#prerequisites)
+  - [Prerequisites - HTML & CSS on VS Code and Git HUB](#prerequisites)
   - [Install](#install)
   - [Usage Portfolio Page for Work Demostration](#usage)
   - [Run tests](#run-tests)
