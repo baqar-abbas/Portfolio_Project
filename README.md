@@ -39,20 +39,20 @@ After you're finished please remove all the comments and instructions!
 
 # 📗 Table of Contents
 
-- [📖 Hello_World_Microverse Project](#About the Project)
-  - [🛠 Built With](#built-with)
-    - [Tech Stack](#tech-stack)
-    - [Key Features](#key-features)
-  - [🚀 Live Demo](#live-demo)
+- [📖 Portfolio Project](#About the Project)
+  - [🛠 Built With HTML and CSS using VS Code Figma and Git Hub ](#built-with)
+    - [Tech Stack HTML and CSS](#tech-stack)
+    - [Key Features Portfolio Page _ Demostration of portfolio Projects](#key-features)
+  - [🚀 Live Demo available on Git Hub](#live-demo)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
-  - [Prerequisites](#prerequisites)
+  - [Prerequisites - VS Code and Git HUB](#prerequisites)
   - [Install](#install)
-  - [Usage](#usage)
+  - [Usage Portfolio Page for Work Demostration](#usage)
   - [Run tests](#run-tests)
   - [Deployment](#triangular_flag_on_post-deployment)
-- [👥 Baqar Abbas](#authors)
-- [🔭 Future Features](#future-features)
+- [👥 Author: Baqar Abbas](#authors)
+- [🔭 Future Features will be updated and enhanced](#future-features)
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
@@ -61,53 +61,55 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [Hello_World_microverse Project] <a name="about-project"></a>
+# 📖 [Portfolio Project] <a name="about-project"></a>
 
 
 
-**[Hello_World_Microverse ]** is my first Microverse Project...
+**[Portfolio Project ]** is my first Microverse Portfolio Project...
 
-## 🛠 Built With Visual studio Code in collaboration with Git Hub <a name="built-with"></a>
+## 🛠 Built With HTMl & CSS on Visual studio Code & Figma in collaboration with Git Hub <a name="built-with"></a>
 
-### Tech Stack <a name="tech-stack"></a>
+### Tech Stack HTML and CSS using VS CODE Figma and Git Hub<a name="tech-stack"></a>
 
 > Describe the tech stack and include only the relevant sections that apply to your project.
-  Built on Visual studio Code in Collaboration with Git Hub 
+  Built on HTML & CSS using Visual studio Code  & Figma  in Collaboration with Git Hub 
 <details>
   <summary>Client</summary>
   <ul>
-    <li><a href="https://reactjs.org/">React.js</a></li>
+    <li><a href="https://www.google.com/">HTML</a></li>
+    <li><a href="https://www.google.com/">CSS</a></li>
+    <li><a href="https://www.google.com"">GITHUB</a></li>
   </ul>
 </details>
 
 <details>
   <summary>Server</summary>
   <ul>
-    <li><a href="https://expressjs.com/">Express.js</a></li>
+    
   </ul>
 </details>
 
 <details>
 <summary>Database</summary>
   <ul>
-    <li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
+    
   </ul>
 </details>
 
 <!-- Features -->
 
-### Key Features <a name="key-features"></a>
+### Key Features demostration of Portfolio <a name="key-features"></a>
 
 > 
 
-- **[Hello_World_microverse Project]**
+- **[Portfolio Project]**
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- LIVE DEMO -->
 
-## 🚀 Live Demo <a name="live-demo"></a>
+## 🚀 Live Demo available on Git HUB <a name="live-demo"></a>
 
 
 
@@ -171,7 +173,7 @@ Example:
 ## 👥 Authors <a name="authors"></a>
 
 > Mention all of the collaborators of this project.
-Solo Project
+Solo Project - Baqar Abbas - Portfolio Page
 
 
 
@@ -179,11 +181,13 @@ Solo Project
 
 <!-- FUTURE FEATURES -->
 
-## 🔭 Future Features <a name="future-features"></a>
+## 🔭 Future Features will be added and enhancements will be updated<a name="future-features"></a>
 
-> Describe 1 - 3 features you will add to the project.
+> New features will be added to the project in Future.
+Portfolio project will be updated to handle responsiveness so that it will look good on all major breakpoints
+of resolution for handling Desktop, Tablets and mobile resolution. It will be handled using media queries.
 
-- [ ] **[Hello world Microverse Project]**
+- [ ] **[Portfolio Project]**
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -203,7 +207,7 @@ Feel free to check the [issues page](../../issues/).
 ## ⭐️ Show your support <a name="support"></a>
 
 > Write a message to encourage readers to support your project
- This is a Simple Git Hub project of Hello Microverse following the Git Flow Processes.
+ This is a Portfolio Project following the Git Flow Processes.
 If you like this project give it a Thumbs up ...
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
